@@ -1,0 +1,26 @@
+{
+  "total_samples": 2000,
+  "unique_articles": 163,
+  "avg_word_count": 297.9605,
+  "min_word_count": 182,
+  "max_word_count": 300,
+  "domains": {
+    "science": 36,
+    "history": 175,
+    "technology": 189,
+    "biology": 121,
+    "physics": 60,
+    "geography": 149,
+    "literature": 156,
+    "philosophy": 31,
+    "mathematics": 65,
+    "medicine": 157,
+    "economics": 82,
+    "psychology": 304,
+    "climate change": 412,
+    "quantum mechanics": 63
+  },
+  "collection_date": "2025-12-31T10:01:56.689659",
+  "avg_chunks_per_article": 12.269938650306749,
+  "max_chunks_from_single_article": 59
+}
