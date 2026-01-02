@@ -36,7 +36,7 @@ Unlike standard "toy" projects, this research exposed a critical limitation in A
 ### 2. Model Training
 * **Base Model:** DeBERTa-v3 (Decoding-enhanced BERT with disentangled attention).
 * **Hyperparameters:**
-    * Learning Rate: `5e-6`
+    * Learning Rate: `2e-5`
     * Batch Size: `8`
     * Epochs: `3` (Early Stopping at Epoch 2)
 
