@@ -239,4 +239,4 @@ print(f"Uploading to Hugging Face: {repo_name}...")
 model.push_to_hub(repo_name)
 tokenizer.push_to_hub(repo_name)
 
-print(f"✅ Success! Your model is live at: https://huggingface.co/{repo_name}")
+print(f"Success! Your model is live at: https://huggingface.co/{repo_name}")
