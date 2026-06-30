@@ -46,7 +46,7 @@ Unlike standard "toy" projects, this research exposed a critical limitation in A
 
 #### model is live at: https://huggingface.co/vraj33/ai-text-detector-deberta
 
-### 3. Run Inference (Python)
+### 1. Run Inference (Python)
 You can use the model directly from Hugging Face without training it yourself:
 ```
 from transformers import pipeline
